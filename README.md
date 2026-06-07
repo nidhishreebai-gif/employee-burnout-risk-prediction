@@ -212,14 +212,6 @@ Based on dataset characteristics:
 - [ ] Python script (`employee_burnout_analysis.py`) - Working and tested
 - [ ] Data file (`employee_data.csv`) - 1,000 records, clean
 - [ ] All visualization files (6 PNG files) - Auto-generated
-
-### **Documentation** (Write These)
-- [ ] Problem Statement (copy from assignment)
-- [ ] EDA Summary (key findings, statistics)
-- [ ] Model Results (metrics with interpretation)
-- [ ] Business Insights (top factors, recommendations)
-- [ ] Full Report (2-3 pages, professional)
-
 ---
 
 ## 🧮 TECHNICAL STACK
