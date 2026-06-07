@@ -1,4 +1,4 @@
-# 🎯 Employee Burnout Risk Prediction System - ML INTERNSHIP ASSIGNMENT
+# 🎯 Employee Burnout Risk Prediction System 
 
 ## Complete Implementation Package
 
