@@ -220,12 +220,6 @@ Based on dataset characteristics:
 - [ ] Business Insights (top factors, recommendations)
 - [ ] Full Report (2-3 pages, professional)
 
-### **Presentation** (Create These)
-- [ ] 8-10 slides covering project overview to recommendations
-- [ ] Include at least 3 visualizations
-- [ ] Professional formatting
-- [ ] Speaker notes for each slide
-
 ---
 
 ## 🧮 TECHNICAL STACK
